@@ -1,0 +1,10 @@
+Capital Correcta: Madrid	Capital introducida: Madrid
+Poblacion Correcta: 3000000	Poblacion Introducida: 3000000
+Capital Correcta: Paris	Capital introducida: Paris
+Poblacion Correcta: 3000000	Poblacion Introducida: 3000000
+Capital Correcta: London	Capital introducida: London
+Poblacion Correcta: 9000000	Poblacion Introducida: 9000000
+Capital Correcta: Lisbon	Capital introducida: Lisbon
+Poblacion Correcta: 1000000	Poblacion Introducida: 1000000
+
+Ha acertado 4 capitales y 4 poblaciones.

@@ -1,0 +1,6 @@
+Capital Correcta: Madrid	Capital introducida: fwedf
+Capital Correcta: Paris	Capital introducida: rgeerhg
+Capital Correcta: London	Capital introducida: thrrthjt
+Capital Correcta: Lisbon	Capital introducida: trjrtyjty
+
+Ha acertado 0 capitales y 0 poblaciones.

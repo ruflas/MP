@@ -1,0 +1,9 @@
+Capital Correcta: Madrid	Capital introducida: Madrid
+Poblacion Correcta: 3000000	Poblacion Introducida: 3000000
+Capital Correcta: Paris	Capital introducida: Paris
+Poblacion Correcta: 3000000	Poblacion Introducida: 3000000
+Capital Correcta: London	Capital introducida: London
+Poblacion Correcta: 9000000	error_de_entradaPoblacion Introducida: null
+Capital Correcta: Lisbon	Capital introducida: xd
+
+Ha acertado 3 capitales y 2 poblaciones.
