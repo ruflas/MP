@@ -1,0 +1,2 @@
+Temperatura Media	Precipitacion acumluada
+13,48	0,00
