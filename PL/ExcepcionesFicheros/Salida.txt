@@ -1,0 +1,2 @@
+El triangulo 1:	(2,3);	(1,8);	(4,5) y su perimetro es 12,1701   
+El triangulo 2:	(3,2);	(5,5);	(4,7) y su perimetro es 10,9406   
